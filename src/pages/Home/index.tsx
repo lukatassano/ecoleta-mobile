@@ -21,7 +21,7 @@ const Home = () => {
         <Image source={require("../../assets/logo.png")} />
         <Text style={styles.title}>Seu marketplace de coleta de resíduos</Text>
         <Text style={styles.description}>
-          Ajudamos pessoas a encontrarem pontos de coleta de forma eficiaente.
+          Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente.
         </Text>
       </View>
 
