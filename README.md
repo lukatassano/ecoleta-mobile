@@ -43,10 +43,11 @@ $ npm start
 # Resultado
 
 <p align="center" >
-  <img src="./images/Splash.png" width="22%" />
-  <img src="./images/HomeApp.png" width="22%" />
-  <img src="./images/Inicio.png" width="22%" />
-  <img src="./images/Detalhes.png" width="22%" />
+  <img src="./images/figma.png" width="98%">
+  <img src="./images/Splash.png" width="24%" />
+  <img src="./images/Inicio.png" width="24%" />
+  <img src="./images/HomeApp.png" width="24%" />
+  <img src="./images/Detalhes.png" width="24%" />
 </p>
 
 ## Veja também a aplicação <a href="https://github.com/lukatassano/ecoleta-backend">Backend</a> e <a href="https://github.com/lukatassano/ecoleta-frontend"> Web </a>
