@@ -15,7 +15,7 @@
 
 ### Tecnologias usadas
 
-- [React native - Expo]() :
+- [React native - Expo](https://expo.io/):
   - [Expo Location]()
   - [Expo font]()
   - [Expo mail composer]()
